@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://y4sserdev.github.io/csb-0v9v7p/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://y4sserdev.github.io/csb-0v9v7p/static/js/main.793c27fc.chunk.js",
+    "main.js.map": "https://y4sserdev.github.io/csb-0v9v7p/static/js/main.793c27fc.chunk.js.map",
+    "runtime-main.js": "https://y4sserdev.github.io/csb-0v9v7p/static/js/runtime-main.b84aa219.js",
+    "runtime-main.js.map": "https://y4sserdev.github.io/csb-0v9v7p/static/js/runtime-main.b84aa219.js.map",
+    "static/js/2.f74237d7.chunk.js": "https://y4sserdev.github.io/csb-0v9v7p/static/js/2.f74237d7.chunk.js",
+    "static/js/2.f74237d7.chunk.js.map": "https://y4sserdev.github.io/csb-0v9v7p/static/js/2.f74237d7.chunk.js.map",
+    "index.html": "https://y4sserdev.github.io/csb-0v9v7p/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://y4sserdev.github.io/csb-0v9v7p/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f74237d7.chunk.js.LICENSE.txt": "https://y4sserdev.github.io/csb-0v9v7p/static/js/2.f74237d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b84aa219.js",
+    "static/js/2.f74237d7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.793c27fc.chunk.js"
+  ]
+}
